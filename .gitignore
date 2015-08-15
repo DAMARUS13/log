@@ -1,0 +1,7 @@
+.idea/
+
+*.ipr
+*.iws
+
+bower.json
+
