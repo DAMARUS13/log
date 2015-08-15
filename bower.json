@@ -1,0 +1,22 @@
+{
+  "name": "log",
+  "main": "log.js",
+  "version": "1.0.0",
+  "authors": [
+    "Damarus <damarus1330@gmail.com>"
+  ],
+  "description": "Permet le debug rapide avec la console ou des alerts",
+  "keywords": [
+    "console",
+    "log"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "bower.json"
+  ]
+}

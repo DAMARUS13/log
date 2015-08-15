@@ -1,7 +1,9 @@
-.idea/
+._*
+.cache
+.DS_Store
+.idea
 
-*.ipr
-*.iws
-
-bower.json
+# Folders to ignore
+bower_components
+node_modules
 
